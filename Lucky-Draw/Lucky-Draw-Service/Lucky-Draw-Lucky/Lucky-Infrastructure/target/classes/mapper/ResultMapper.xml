@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.LuckyDrawUser.mapper.ResultDBMapper">
+
+    <resultMap id="BaseResultMap" type="com.example.luckyinfrastructure.dataobject.ResultDB">
+            <id property="id" column="id" jdbcType="BIGINT"/>
+            <result property="userId" column="user_id" jdbcType="BIGINT"/>
+            <result property="awardName" column="award_name" jdbcType="VARCHAR"/>
+            <result property="prizeName" column="prize_name" jdbcType="VARCHAR"/>
+            <result property="activityName" column="activity_name" jdbcType="VARCHAR"/>
+            <result property="isDraw" column="isDraw" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,user_id,award_name,
+        prize_name,activity_name,isDraw
+    </sql>
+</mapper>

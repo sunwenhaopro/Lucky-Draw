@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Lucky-Draw-GateWay
+server:
+  port: 7210
+
+

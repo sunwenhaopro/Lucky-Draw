@@ -1,0 +1,14 @@
+ld:
+  host: 线上配置
+  mysql-port: 线上配置
+  nacos-port: 线上配置
+  redis-port: 线上配置
+#nacos
+nacos:
+  #dev
+  namespace: 线上配置
+#database
+DB_HOST: ${ld.host}:${ld.mysql-port}
+DB_NAME: 线上配置
+DB_USERNAME: 线上配置
+DB_PASSWORD: 线上配置

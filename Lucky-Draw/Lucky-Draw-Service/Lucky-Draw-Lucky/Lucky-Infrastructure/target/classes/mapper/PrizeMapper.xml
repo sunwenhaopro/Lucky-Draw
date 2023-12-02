@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.luckyinfrastructure.mapper.PrizeMapper">
+
+    <resultMap id="BaseResultMap" type="com.example.luckyinfrastructure.dataobject.PrizeDB">
+            <id property="id" column="id" jdbcType="BIGINT"/>
+            <result property="prizeName" column="prize_name" jdbcType="VARCHAR"/>
+            <result property="inventory" column="inventory" jdbcType="INTEGER"/>
+            <result property="money" column="money" jdbcType="DECIMAL"/>
+            <result property="type" column="type" jdbcType="INTEGER"/>
+            <result property="createTime" column="create_time" jdbcType="TIMESTAMP"/>
+            <result property="creator" column="creator" jdbcType="VARCHAR"/>
+            <result property="updateTime" column="update_time" jdbcType="TIMESTAMP"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,prize_name,inventory,
+        money,type,create_time,
+        cretor,update_time
+    </sql>
+    <select id="page" resultType="com.example.luckyinfrastructure.dataobject.PrizeDB">
+        select * from bld_prize  a
+        <where>
+            <if test="query.id != null">
+                and a.id  = #{query.id}
+            </if>
+            <if test="query.prizeName != null and query.prizeName != ''">
+                and a.prize_name like concat('%',#{query.prizeName},'%')
+            </if>
+            <if test="query.type != null">
+                and a.type  = #{query.type}
+            </if>
+        </where>
+    </select>
+
+    <update id="deductionInventory">
+        update bld_prize set inventory = inventory - #{number}
+        where id = #{prizeId}
+        and (inventory - #{number}) >= 0
+    </update>
+</mapper>

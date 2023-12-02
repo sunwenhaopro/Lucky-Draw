@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>LuckyDraw</title>
+</head>
+<body>
+
+用户 <span th:text="${userName}"></span> 您好 !
+<br>
+   你在本平台参与的抽奖活动:
+<p th:text="${activityName}" style="text-align: center"></p>
+中，获得了
+<p th:text="${awardName}" style="text-align: center"></p>
+奖品为：
+<p th:text="${prizeName}" style="text-align: center"></p>
+奖励至今还没有领取，请您前往领取不要错过领取时间
+<br>
+<a style="text-align: center" href="http://localhost:5173">点击前往领取</a>
+</body>
+</html>

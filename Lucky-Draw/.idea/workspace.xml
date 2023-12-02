@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e343d5e-44e2-47cf-a510-2f3b525d0bde" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2TyEAkA3e4eNEtfOXpB0NDIup3h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelOrder2&quot;: &quot;2&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth2&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindow运行.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;aspect.path.notification.shown&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;13&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IDEAProject/抽奖/Lucky-Draw/Lucky-Draw-Service/Lucky-Draw-Monitor&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;show.run.dashboard.notification&quot;: &quot;false&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;2015dec1a6ee4fe93db7914d7f6e9ea2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL 方言&quot;: [
+      &quot;MySQL&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\抽奖\Lucky-Draw\Lucky-Draw-Service\Lucky-Draw-Start" />
+      <recent name="D:\IDEAProject\抽奖\Lucky-Draw\Lucky-Draw-Service\Lucky-Draw-Lucky" />
+      <recent name="D:\IDEAProject\抽奖\Lucky-Draw" />
+      <recent name="D:\IDEAProject\抽奖\Lucky-Draw\Lucky-Draw-Service\Lucky-Draw-Lucky\Lucky-Start\src\main\resources" />
+      <recent name="D:\IDEAProject\抽奖\Lucky-Draw\Lucky-Draw-Config\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\抽奖\Lucky-Draw\Lucky-Draw-Service" />
+      <recent name="D:\IDEAProject\抽奖\Lucky-Draw\Lucky-Draw-Service\Lucky-Draw-Lucky" />
+      <recent name="D:\IDEAProject\抽奖\Lucky-Draw\Lucky-Draw-Service\Lucky-Draw-Lucky\Lucky-Adapter\src\main\resources" />
+      <recent name="D:\IDEAProject\抽奖\Lucky-Draw\Lucky-Draw-Service\Lucky-Draw-Lucky\Lucky-App\src\main\java\com\example\luckyapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.luckyinfrastructure.mapper" />
+      <recent name="com.example.luckyinfrastructure.dataobject" />
+      <recent name="com.example.luckyadapter.web" />
+      <recent name="com.example.luckyadapter.mqConsumer" />
+      <recent name="com.example.luckyinfrastructure.gateway.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LuckyStartApplication">
+    <configuration name="LuckyDrawGateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="Lucky-Draw-GateWay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.LuckyDrawGateway.LuckyDrawGateWayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuckyStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="Lucky-Draw-Start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.luckystart.LuckyStartApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.luckystart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.LuckyDrawGateWayApplication" />
+      <item itemvalue="Spring Boot.LuckyStartApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LuckyStartApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8e343d5e-44e2-47cf-a510-2f3b525d0bde" name="变更" comment="" />
+      <created>1692006779914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692006779914</updated>
+      <workItem from="1692006781394" duration="8024000" />
+      <workItem from="1692017101382" duration="2201000" />
+      <workItem from="1692019376859" duration="643000" />
+      <workItem from="1692063106646" duration="3842000" />
+      <workItem from="1692069224741" duration="12754000" />
+      <workItem from="1692090193052" duration="13414000" />
+      <workItem from="1692152684467" duration="19695000" />
+      <workItem from="1692196731258" duration="1042000" />
+      <workItem from="1692234313939" duration="1900000" />
+      <workItem from="1692259487045" duration="16801000" />
+      <workItem from="1692339233129" duration="8674000" />
+      <workItem from="1692408181514" duration="34949000" />
+      <workItem from="1692454756914" duration="925000" />
+      <workItem from="1692609772479" duration="6853000" />
+      <workItem from="1692674853231" duration="8234000" />
+      <workItem from="1692685097432" duration="354000" />
+      <workItem from="1692685467149" duration="16409000" />
+      <workItem from="1692708244166" duration="2743000" />
+      <workItem from="1692711011540" duration="6118000" />
+      <workItem from="1692717150306" duration="1205000" />
+      <workItem from="1692749809876" duration="13099000" />
+      <workItem from="1692765149372" duration="334000" />
+      <workItem from="1692768415159" duration="9998000" />
+      <workItem from="1692848453380" duration="6055000" />
+      <workItem from="1692858106781" duration="30208000" />
+      <workItem from="1692929323248" duration="6971000" />
+      <workItem from="1692936945353" duration="11004000" />
+      <workItem from="1693021003945" duration="12591000" />
+      <workItem from="1693205593530" duration="3888000" />
+      <workItem from="1693291499851" duration="4944000" />
+      <workItem from="1693315489150" duration="2094000" />
+      <workItem from="1693366298474" duration="12000000" />
+      <workItem from="1693472894669" duration="6426000" />
+      <workItem from="1693640123505" duration="3643000" />
+      <workItem from="1693644320619" duration="644000" />
+      <workItem from="1693878916956" duration="9398000" />
+      <workItem from="1693888476681" duration="2078000" />
+      <workItem from="1693891583377" duration="5877000" />
+      <workItem from="1693907601175" duration="6334000" />
+      <workItem from="1693918106376" duration="1551000" />
+      <workItem from="1693976313943" duration="1717000" />
+      <workItem from="1693982010219" duration="638000" />
+      <workItem from="1693994588099" duration="5865000" />
+      <workItem from="1694000543158" duration="62000" />
+      <workItem from="1694009625024" duration="2002000" />
+      <workItem from="1694051323290" duration="1974000" />
+      <workItem from="1694078342437" duration="3196000" />
+      <workItem from="1694774295444" duration="308000" />
+      <workItem from="1695798981850" duration="5915000" />
+      <workItem from="1695812574182" duration="540000" />
+      <workItem from="1695976039047" duration="8065000" />
+      <workItem from="1696132495061" duration="7131000" />
+      <workItem from="1696238236978" duration="17626000" />
+      <workItem from="1696305868757" duration="3826000" />
+      <workItem from="1696390965414" duration="602000" />
+      <workItem from="1696563539390" duration="14575000" />
+      <workItem from="1696644906140" duration="4422000" />
+      <workItem from="1696766947171" duration="3905000" />
+      <workItem from="1696932817967" duration="1351000" />
+      <workItem from="1697018706109" duration="991000" />
+      <workItem from="1697075427657" duration="599000" />
+      <workItem from="1697113149135" duration="897000" />
+      <workItem from="1697159538023" duration="2571000" />
+      <workItem from="1697204640991" duration="1065000" />
+      <workItem from="1697247206767" duration="729000" />
+      <workItem from="1697275913533" duration="430000" />
+      <workItem from="1697335555213" duration="39000" />
+      <workItem from="1697338805679" duration="2808000" />
+      <workItem from="1697456479759" duration="274000" />
+      <workItem from="1697765537217" duration="9181000" />
+      <workItem from="1697792463627" duration="2833000" />
+      <workItem from="1697809297498" duration="504000" />
+      <workItem from="1697811618667" duration="174000" />
+      <workItem from="1697847382502" duration="2287000" />
+      <workItem from="1697862535503" duration="112000" />
+      <workItem from="1698667172459" duration="66000" />
+      <workItem from="1698667248419" duration="21000" />
+      <workItem from="1699068629701" duration="918000" />
+      <workItem from="1699242021770" duration="20000" />
+      <workItem from="1699272684810" duration="91000" />
+      <workItem from="1699795001520" duration="616000" />
+      <workItem from="1699924492597" duration="508000" />
+      <workItem from="1699960932258" duration="1371000" />
+      <workItem from="1699966462572" duration="179000" />
+      <workItem from="1700036704875" duration="496000" />
+      <workItem from="1700037247424" duration="10283000" />
+      <workItem from="1700099638564" duration="7792000" />
+      <workItem from="1700122307508" duration="6789000" />
+      <workItem from="1700901327446" duration="6394000" />
+      <workItem from="1700968640367" duration="613000" />
+      <workItem from="1701069371115" duration="11572000" />
+      <workItem from="1701084309023" duration="9494000" />
+      <workItem from="1701144014165" duration="2565000" />
+      <workItem from="1701146754998" duration="32000" />
+      <workItem from="1701241626890" duration="4856000" />
+      <workItem from="1701250012725" duration="11136000" />
+      <workItem from="1701400658487" duration="23000" />
+      <workItem from="1701400901095" duration="1218000" />
+      <workItem from="1701501496499" duration="1390000" />
+      <workItem from="1701504016341" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.example.luckyclient.dto.cmd.RecordAddCmd" memberName="userId" />
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+        <PinnedItemInfo parentTag="java.lang.Long" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

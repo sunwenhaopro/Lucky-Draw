@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Start/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for Lucky-Draw" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.10/lombok-1.18.10.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.4.2.Final/mapstruct-processor-1.4.2.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.4.2.Final/mapstruct-1.4.2.Final.jar" />
+        </processorPath>
+        <module name="Lucky-Client" />
+        <module name="Lucky-Draw-Monitor" />
+        <module name="Lucky-Draw-Start" />
+        <module name="Lucky-App" />
+        <module name="Lucky-Adapter" />
+        <module name="Lucky-Draw-Common" />
+        <module name="Lucky-Draw-Pom" />
+        <module name="Lucky-Domain" />
+        <module name="Lucky-Infrastructure" />
+        <module name="Lucky-Draw-Config" />
+        <module name="Lucky-Draw-GateWay" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Lucky-Draw-Monitor1" target="11" />
+      <module name="Lucky-Draw-Monitor2" target="11" />
+      <module name="Lucky-Draw-User" target="11" />
+      <module name="Lucky-Start" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Lucky-Adapter" options="-parameters" />
+      <module name="Lucky-App" options="-parameters" />
+      <module name="Lucky-Client" options="-parameters" />
+      <module name="Lucky-Domain" options="-parameters" />
+      <module name="Lucky-Draw" options="" />
+      <module name="Lucky-Draw-Common" options="-parameters" />
+      <module name="Lucky-Draw-Config" options="-parameters" />
+      <module name="Lucky-Draw-GateWay" options="-parameters" />
+      <module name="Lucky-Draw-Lucky" options="" />
+      <module name="Lucky-Draw-Monitor" options="-parameters" />
+      <module name="Lucky-Draw-Monitor1" options="-parameters" />
+      <module name="Lucky-Draw-Monitor2" options="-parameters" />
+      <module name="Lucky-Draw-Pom" options="-parameters" />
+      <module name="Lucky-Draw-Service" options="" />
+      <module name="Lucky-Draw-Start" options="-parameters" />
+      <module name="Lucky-Draw-User" options="-parameters" />
+      <module name="Lucky-Infrastructure" options="-parameters" />
+      <module name="Lucky-Start" options="-parameters" />
+    </option>
+  </component>
+</project>

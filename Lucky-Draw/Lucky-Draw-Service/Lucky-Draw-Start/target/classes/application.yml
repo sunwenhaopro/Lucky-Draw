@@ -1,0 +1,70 @@
+spring:
+  profiles:
+    active: dev,nacos,redis,mybatisplus,rocketmq,fastdfs
+
+  redis:
+    database: 0
+    host: 192.168.198.128
+    port: 6379
+    password: '000415'
+
+monitor:
+  # 项目是否开启 api监控
+  enable: true
+  # 项目名称,也是redis key前缀的一部分
+  projectCode: mrxu-demo
+  # 访问监控大屏的密码
+  viewPassword: cmcc
+  # 告警通知渠道
+  notify:
+    # 钉钉告警 https://open.dingtalk.com/document/robots/custom-robot-access
+    dingDingWebhook: https://oapi.dingtalk.com/robot/send?access_token=XXXX
+    # 飞书告警 https://open.feishu.cn/document/client-docs/bot-v3/add-custom-bot
+    feiShuWebhook: https://open.feishu.cn/open-apis/bot/v2/hook/XXXX
+    #企业微信告警
+    qiYeWeiWinWebhook: https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=XXXX
+    # 邮箱告警收件人，发件人详见mail.setting 配置
+    toEmail:
+      - '2196728181@qq.com'
+  # 拦截器规则
+  interceptor:
+    # 需要拦截的路径，默认全部
+    path:
+      - '/**'
+    # 需要排除的路径
+    excludePath:
+    #- '/*.css'
+    # 需要排除的ip
+    excludeIp:
+    #- '127.0.0.1'
+    #- 'localhost'
+  # 攻击相关配置
+  attack:
+    # 同一个ip每秒超过多少次访问认定为攻击
+    limitCountPerSecond: 60
+  # http状态码配置
+  httpStatusConfig:
+    enable: true
+    # 每秒http状态码非200和304个数超过多少触发预警
+    httpStatusErrorCountLimitPerSecond: 50
+  # 慢请求配置
+  timeOutConfig:
+    enable: true
+    # 每秒慢请求个数超过多少触发告警
+    limitCountPerSecond: 3
+    # 接口响应数据大于多少认为是慢请求
+    limitMilliSecond: 1000
+  # 业务异常状态码
+  businessCode:
+    # 是否开启业务异常状态码监控
+    enable: true
+    # 业务状态码key如返回：{code:200,msg:"成功",data:null} 业务状态码为code
+    codeName: code
+    # 正常的业务状态码
+    successCode: 0
+    # 业务状态码非正常每秒超过多少触发告警
+    limitErrorCountPerSecond: 20
+    # 监控特殊状态码用于感知系统异常
+    errorCodeNotice:
+      203: 发票余额不足
+      201: 实名认证失败

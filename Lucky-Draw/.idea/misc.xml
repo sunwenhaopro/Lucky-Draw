@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Pom/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Base/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Common/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Config/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-GateWay/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-App/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Client/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Domain/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Infrastructure/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Draw-Monitor2/pom.xml" />
+        <option value="$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Monitor/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-User/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

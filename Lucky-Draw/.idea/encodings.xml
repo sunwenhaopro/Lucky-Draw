@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-GateWay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-GateWay/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Pom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Pom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-App/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-App/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/Lucky-Start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Lucky/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Monitor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-Start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-User/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/Lucky-Draw-User/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lucky-Draw-Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

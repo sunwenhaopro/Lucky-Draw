@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.app.json",
+  "exclude": [],
+  "include": ["env.d.ts", "src/**/*", "src/**/*.vue","src/*.vue","src/**/**/*.vue","src/**/**/**/*.vue","src/assets/**.png","src/assets/**.json"],
+  "compilerOptions": {
+    "composite": true,
+    "types": ["node", "jsdom"]
+  }
+}
