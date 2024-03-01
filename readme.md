@@ -1,4 +1,4 @@
-<img src="Images/logo_footer.png" alt="logo_footer" style="zoom:10%;" />
+<img src="Images/logo_footer.png" alt="logo_footer" style="zoom:5%;" />
 
 
 
