@@ -8,8 +8,8 @@ LuckyDraw是一个在线抽奖系统，旨在为用户提供公平、公正、�
 
 ### 技术栈
 
-- 后端：JDK11、SpringBoot2.5、SpringCloud、Redis、RocketMQ、MySQL、Nacos、Hutool、lombok、mapstruct、Jasypt、JWT、COLA架构
-- 前端：Vue2、Vant2.0
+后端： JDK11+SpringBoot2.5+SpringCloud+Redis+RocketMQ+MySQL+Nacos+FastDFS+Hutool+lombok+Mapstruct+Jasypt+JWT+COLA架构
+前端： Vue3+ElementPlus+Ecahrts+Axios
 
 
 
